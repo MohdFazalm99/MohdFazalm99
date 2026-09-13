@@ -39,7 +39,7 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 **☁️ Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -56,7 +56,7 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 **🔧 CI/CD & Tooling**
@@ -91,12 +91,40 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 <br/>
 
+## 📌 Featured Work
+
+<div align="center">
+
+| Project | What it's for |
+|---|---|
+| [**localstack**](https://github.com/MohdFazalm99/localstack) | Local AWS cloud stack for testing serverless apps offline |
+| [**opentelemetry-demo**](https://github.com/MohdFazalm99/opentelemetry-demo) | Microservices demo showcasing OpenTelemetry in a near real-world setup |
+| [**observability-zero-to-hero**](https://github.com/MohdFazalm99/observability-zero-to-hero) | Structured deep-dive into building observability stacks |
+| [**terraform-zero-to-hero**](https://github.com/MohdFazalm99/terraform-zero-to-hero) | Terraform mastery, module by module |
+| [**three-tier-architecture-demo**](https://github.com/MohdFazalm99/three-tier-architecture-demo) | 3-tier microservices architecture deployed on AWS EKS |
+
+</div>
+
+<br/>
+
 ## 🌱 Currently Building / Learning
 
 - 🔭 Deep-diving into **OpenTelemetry** and unified observability pipelines
 - ⚡ Sharpening skills in **Terraform** for multi-cloud IaC
 - 🎯 Exploring **platform engineering** patterns for internal developer platforms
 - 🤝 Open to collaborating on cloud reliability & observability tooling
+
+<br/>
+
+<div align="center">
+
+### 🎖️ Achievements
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" alt="Pull Shark achievement"/>
+
+**Pull Shark** — earned for merged pull requests across repos
+
+</div>
 
 <br/>
 
@@ -107,7 +135,6 @@ fun_fact: I make outages boring — no drama, just runbooks
 <!-- Replace the # links below with your real profile URLs -->
 <a href="https://www.linkedin.com/in/mohd-fazal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mohammadfazalm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
->
 
 </div>
 
