@@ -106,7 +106,7 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 <!-- Replace the # links below with your real profile URLs -->
 <a href="https://www.linkedin.com/in/mohd-fazal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mohammadfazalm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a
+<a href="mohammadfazalm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 >
 
 </div>
