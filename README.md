@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Mohd%20Fazal%20Mahmood&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20%26%20Telecom&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Mohd%20Fazal%20Mahmood&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20%26%20Telecom&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Automating+the+cloud%2C+one+pipeline+at+a+time+%E2%98%81%EF%B8%8F;4%2B+Years+in+AWS+%7C+OpenStack+%7C+Kubernetes;Building+Observability+that+Actually+Observes+%F0%9F%94%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Automating+the+cloud%2C+one+pipeline+at+a+time;4%2B+Years+in+AWS+%7C+OpenStack+%7C+Kubernetes;Building+Observability+that+Actually+Observes" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 ```yaml
 name: Mohd Fazal Mahmood
 role: DevOps / Site Reliability Engineer
-company: Infosys Ltd
+company: Calsoft Pvt Ltd
 experience: 4+ years in Cloud & Telecom
 focus: Reliability, Automation, Observability at scale
 currently_exploring: OpenTelemetry, Service Mesh, Platform Engineering
@@ -28,7 +28,7 @@ fun_fact: I make outages boring — no drama, just runbooks
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=%22It's+not+a+bug%2C+it's+an+undocumented+feature%22;%22Works+on+my+cluster%22+%F0%9F%98%85" alt="quote"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=%22It's+not+a+bug%2C+it's+an+undocumented+feature%22;%22Works+on+my+cluster%22" alt="quote"/>
 </div>
 
 <br/>
@@ -132,9 +132,8 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 <div align="center">
 
-<!-- Replace the # links below with your real profile URLs -->
 <a href="https://www.linkedin.com/in/mohd-fazal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mohammadfazalm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mohammadfazalm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -142,7 +141,7 @@ fun_fact: I make outages boring — no drama, just runbooks
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 **⭐ "Uptime is a feature. I ship it." ⭐**
 
