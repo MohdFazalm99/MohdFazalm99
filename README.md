@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Mohd%20Fazal%20Mahmood&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior DevOps%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20and%20Telecom&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Mohd%20Fazal%20Mahmood&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Site%20Reliability%20Engineer%20%7C%20Cloud%20and%20Telecom&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Automating+the+cloud%2C+one+pipeline+at+a+time;4%2B+Years+in+AWS+%7C+OpenStack+%7C+Kubernetes;Building+Observability+that+Actually+Observes" alt="Typing SVG" />
@@ -77,9 +77,20 @@ fun_fact: I make outages boring — no drama, just runbooks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdFazalm99&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdFazalm99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdFazalm99&theme=tokyo-night&hide_border=true" width="49%"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdFazalm99&custom_title=Mohd's%20Contribution%20Graph&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&area_color=00C9FF&title_color=00C9FF&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 📌 Featured Work
 
